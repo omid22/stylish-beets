@@ -2,7 +2,7 @@ html {
   box-sizing: border-box;
   background-color: #c9b5ab;
   font: "Georgia serif";
-  color: red;
+  color: #222;
 }
 
 *, *::before, *::after {
